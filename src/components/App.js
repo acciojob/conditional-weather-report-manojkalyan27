@@ -1,5 +1,5 @@
 import React from "react";
-import WeatherDisplay from "./Assignments/weatherReport/WeatherDisplay.jsx";
+import WeatherDisplay from "./WeatherDisplay.jsx";
 
 const App = () => {
   return (
